@@ -1,0 +1,12 @@
+﻿2.16.exe' (Win32): 已載入 'C:\Users\user\Desktop\Visual\2.16\Debug\2.16.exe'。已載入符號。
+2.16.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ntdll.dll'。
+2.16.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel32.dll'。
+2.16.exe' (Win32): 已載入 'C:\Windows\SysWOW64\KernelBase.dll'。
+2.16.exe' (Win32): 已載入 'C:\Windows\SysWOW64\vcruntime140d.dll'。
+2.16.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbased.dll'。
+0x3e7c 執行緒以返回碼 0 (0x0) 結束。
+2.16.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel.appcore.dll'。
+2.16.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcrt.dll'。
+0x42d0 執行緒以返回碼 0 (0x0) 結束。
+0x2e68 執行緒以返回碼 0 (0x0) 結束。
+'[3600] 2.16.exe' 程式以返回碼 0 (0x0) 結束。
